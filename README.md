@@ -45,6 +45,6 @@ Para executar a aplicação e começar a explorar os dados de renda, siga estas 
     
 5.  Inicie a aplicação Streamlit:
 
-    streamlit run app.py
+    streamlit run analise_de_renda.py
     
 A aplicação estará disponível em seu navegador. Você poderá começar a explorar os dados e realizar análises de previsão de renda.
