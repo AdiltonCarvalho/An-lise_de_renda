@@ -33,7 +33,7 @@ Para executar a aplicação e começar a explorar os dados de renda, siga estas 
 
 2.  Clone este repositório em seu computador:
 
-    git clone https://github.com/AdiltonCarvalho/projeto-analise-renda.git
+    git clone https://github.com/AdiltonCarvalho/analise_de_renda.git
 
 3.  Navegue até o diretório do projeto:
 
